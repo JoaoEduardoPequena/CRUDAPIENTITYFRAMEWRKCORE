@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\infrastructure.persistence\\mappings\\categoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\mappings\\categoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\infrastructure.persistence\\mappings\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\mappings\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|solutionrelative:application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF789EAE-C13D-4B16-90D0-8FB420092037}|WebAPI\\WebAPI.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF789EAE-C13D-4B16-90D0-8FB420092037}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\application\\app_geral\\usecases\\usuarios\\command\\criarusuarios\\criarusuarioscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|solutionrelative:application\\app_geral\\usecases\\usuarios\\command\\criarusuarios\\criarusuarioscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA870AF-5B87-4D6B-A311-E032FD940C87}|Domain\\Domain.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFA870AF-5B87-4D6B-A311-E032FD940C87}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\application\\app_geral\\usecases\\usuarios\\command\\criarusuarios\\criarusuarioscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|solutionrelative:application\\app_geral\\usecases\\usuarios\\command\\criarusuarios\\criarusuarioscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\infrastructure.persistence\\repositories\\repousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\repousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\infrastructure.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\infrastructure.persistence\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF789EAE-C13D-4B16-90D0-8FB420092037}|WebAPI\\WebAPI.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\webapi\\controllers\\admin\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF789EAE-C13D-4B16-90D0-8FB420092037}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\admin\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA870AF-5B87-4D6B-A311-E032FD940C87}|Domain\\Domain.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\domain\\interfaces\\iusuarios.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFA870AF-5B87-4D6B-A311-E032FD940C87}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuarios.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\application\\app_geral\\usecases\\usuarios\\command\\criarusuarios\\criarusuarioscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|solutionrelative:application\\app_geral\\usecases\\usuarios\\command\\criarusuarios\\criarusuarioscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15D6545-103F-4AEA-B342-A245A4A316A6}|Infrastruture.Shared\\Infrastruture.Shared.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\infrastruture.shared\\wrappers\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15D6545-103F-4AEA-B342-A245A4A316A6}|Infrastruture.Shared\\Infrastruture.Shared.csproj|solutionrelative:infrastruture.shared\\wrappers\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF789EAE-C13D-4B16-90D0-8FB420092037}|WebAPI\\WebAPI.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\webapi\\middleware\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF789EAE-C13D-4B16-90D0-8FB420092037}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\middleware\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\application\\app_shared\\behaviors\\validationpipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|solutionrelative:application\\app_shared\\behaviors\\validationpipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47341862-CC5A-41CD-88AE-696C82EF83A1}|Infrastructure.Identity\\Infrastructure.Identity.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\infrastructure.identity\\context\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47341862-CC5A-41CD-88AE-696C82EF83A1}|Infrastructure.Identity\\Infrastructure.Identity.csproj|solutionrelative:infrastructure.identity\\context\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\application\\app_shared\\exceptions\\validationexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|solutionrelative:application\\app_shared\\exceptions\\validationexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\application\\mappings\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99DE86F-B267-4490-8EF4-060A9B32AF82}|Application\\Application.csproj|solutionrelative:application\\mappings\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF789EAE-C13D-4B16-90D0-8FB420092037}|WebAPI\\WebAPI.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF789EAE-C13D-4B16-90D0-8FB420092037}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15D6545-103F-4AEA-B342-A245A4A316A6}|Infrastruture.Shared\\Infrastruture.Shared.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\infrastruture.shared\\infrastruture.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A15D6545-103F-4AEA-B342-A245A4A316A6}|Infrastruture.Shared\\Infrastruture.Shared.csproj|solutionrelative:infrastruture.shared\\infrastruture.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\infrastructure.persistence\\infrastructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C876DC19-BEBD-477E-B875-B6C1FE05EEC9}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\infrastructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF789EAE-C13D-4B16-90D0-8FB420092037}|WebAPI\\WebAPI.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\webapi\\controllers\\admin\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF789EAE-C13D-4B16-90D0-8FB420092037}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\admin\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA870AF-5B87-4D6B-A311-E032FD940C87}|Domain\\Domain.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA870AF-5B87-4D6B-A311-E032FD940C87}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA870AF-5B87-4D6B-A311-E032FD940C87}|Domain\\Domain.csproj|c:\\users\\jpequena\\documents\\projectos\\api\\domain\\entities\\grupopermissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA870AF-5B87-4D6B-A311-E032FD940C87}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\grupopermissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoMap.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\Mappings\\ProdutoMap.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Mappings\\ProdutoMap.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\Mappings\\ProdutoMap.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Mappings\\ProdutoMap.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:16:04.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Application\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\ConfigureServices.cs",
+              "RelativeToolTip": "Application\\ConfigureServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:15:54.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CriarUsuariosCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommandHandler.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommandHandler.cs",
+              "RelativeToolTip": "Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommandHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:30:10.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\WebAPI\\Controllers\\Admin\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\Admin\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\WebAPI\\Controllers\\Admin\\UsuarioController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\Admin\\UsuarioController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:56:20.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:20:39.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:50:54.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\ConfigureServices.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\ConfigureServices.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:30:41.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepoUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\Repositories\\RepoUsuarios.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\RepoUsuarios.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\Repositories\\RepoUsuarios.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\RepoUsuarios.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:58:59.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Domain\\Interfaces\\IUsuarios.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuarios.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Domain\\Interfaces\\IUsuarios.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:42:20.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CriarUsuariosCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommandValidator.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommandValidator.cs",
+              "RelativeToolTip": "Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommandValidator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:36:06.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastruture.Shared\\Wrappers\\Response.cs",
+              "RelativeDocumentMoniker": "Infrastruture.Shared\\Wrappers\\Response.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastruture.Shared\\Wrappers\\Response.cs",
+              "RelativeToolTip": "Infrastruture.Shared\\Wrappers\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:53:35.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaMap.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\Mappings\\CategoriaMap.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Mappings\\CategoriaMap.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\Mappings\\CategoriaMap.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Mappings\\CategoriaMap.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:41:11.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CriarUsuariosCommand.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommand.cs",
+              "RelativeDocumentMoniker": "Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommand.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommand.cs",
+              "RelativeToolTip": "Application\\App_Geral\\UseCases\\Usuarios\\Command\\CriarUsuarios\\CriarUsuariosCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:31:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T08:15:54.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidationExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\App_Shared\\Exceptions\\ValidationExceptions.cs",
+              "RelativeDocumentMoniker": "Application\\App_Shared\\Exceptions\\ValidationExceptions.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\App_Shared\\Exceptions\\ValidationExceptions.cs",
+              "RelativeToolTip": "Application\\App_Shared\\Exceptions\\ValidationExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:47:27.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentityContext.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Identity\\Context\\IdentityContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Identity\\Context\\IdentityContext.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Identity\\Context\\IdentityContext.cs",
+              "RelativeToolTip": "Infrastructure.Identity\\Context\\IdentityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:28:02.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidationPipelineBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\App_Shared\\Behaviors\\ValidationPipelineBehavior.cs",
+              "RelativeDocumentMoniker": "Application\\App_Shared\\Behaviors\\ValidationPipelineBehavior.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\App_Shared\\Behaviors\\ValidationPipelineBehavior.cs",
+              "RelativeToolTip": "Application\\App_Shared\\Behaviors\\ValidationPipelineBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:52:16.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\WebAPI\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\WebAPI\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "WebAPI\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:11:45.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GeneralProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\Mappings\\GeneralProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\GeneralProfile.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Application\\Mappings\\GeneralProfile.cs",
+              "RelativeToolTip": "Application\\Mappings\\GeneralProfile.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:41:52.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T14:30:53.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Infrastruture.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastruture.Shared\\Infrastruture.Shared.csproj",
+              "RelativeDocumentMoniker": "Infrastruture.Shared\\Infrastruture.Shared.csproj",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastruture.Shared\\Infrastruture.Shared.csproj",
+              "RelativeToolTip": "Infrastruture.Shared\\Infrastruture.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T10:48:02.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Infrastructure.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "RelativeToolTip": "Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T15:36:35.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\WebAPI\\Controllers\\Admin\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\Admin\\LoginController.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\WebAPI\\Controllers\\Admin\\LoginController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\Admin\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:59:24.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:35:31.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GrupoPermissao.cs",
+              "DocumentMoniker": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Domain\\Entities\\GrupoPermissao.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\GrupoPermissao.cs",
+              "ToolTip": "C:\\Users\\jpequena\\Documents\\Projectos\\API\\Domain\\Entities\\GrupoPermissao.cs",
+              "RelativeToolTip": "Domain\\Entities\\GrupoPermissao.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBZwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:45:29.376Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
