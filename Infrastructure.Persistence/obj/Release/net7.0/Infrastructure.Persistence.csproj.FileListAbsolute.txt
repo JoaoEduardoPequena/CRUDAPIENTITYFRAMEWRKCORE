@@ -19,3 +19,4 @@ C:\Users\jpequena\Documents\Projectos\API\Infrastructure.Persistence\obj\Release
 C:\Users\jpequena\Documents\Projectos\API\Infrastructure.Persistence\obj\Release\net7.0\Infrastructure.Persistence.pdb
 C:\Users\jpequena\Documents\Projectos\API\Infrastructure.Persistence\obj\Release\net7.0\Infrastructure.Persistence.genruntimeconfig.cache
 C:\Users\jpequena\Documents\Projectos\API\Infrastructure.Persistence\obj\Release\net7.0\ref\Infrastructure.Persistence.dll
+C:\Users\jpequena\Documents\Projectos\API\Infrastructure.Persistence\obj\Release\net7.0\Infrastructure.Persistence.sourcelink.json

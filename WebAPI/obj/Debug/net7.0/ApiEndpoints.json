@@ -1,27 +1,29 @@
 [
   {
-    "ContainingType": "WebAPI.Controllers.Admin.LoginController",
-    "Method": "Get",
-    "RelativePath": "api/geral/login",
+    "ContainingType": "WebAPI.Controllers.Admin.GenerateQRCodeController",
+    "Method": "GenerateQRCode",
+    "RelativePath": "api/geral/GenerateQRCode",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebAPI.WeatherForecast, WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
+    "ReturnTypes": [],
     "Tags": [
       "Geral"
-    ],
-    "EndpointName": "GetWeatherForecast"
+    ]
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.Admin.GenerateQRCodeController",
+    "Method": "Welcome",
+    "RelativePath": "api/geral/GenerateQRCode/welcome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "Tags": [
+      "Geral"
+    ]
   },
   {
     "ContainingType": "WebAPI.Controllers.Admin.UsuarioController",

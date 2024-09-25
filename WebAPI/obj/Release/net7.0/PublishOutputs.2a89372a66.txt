@@ -40,6 +40,8 @@ C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\M
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.SqlServer.Server.dll
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\QrCodeGenerator.dll
+C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\QRCoder.dll
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -57,9 +59,7 @@ C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\r
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\jpequena\Documents\Projectos\API\WebAPI\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

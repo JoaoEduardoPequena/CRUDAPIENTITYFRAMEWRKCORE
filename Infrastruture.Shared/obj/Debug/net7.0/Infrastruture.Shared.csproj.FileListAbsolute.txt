@@ -8,6 +8,7 @@ C:\Users\jpequena\Documents\Projectos\API\Infrastruture.Shared\obj\Debug\net7.0\
 C:\Users\jpequena\Documents\Projectos\API\Infrastruture.Shared\obj\Debug\net7.0\Infrastruture.Shared.AssemblyInfoInputs.cache
 C:\Users\jpequena\Documents\Projectos\API\Infrastruture.Shared\obj\Debug\net7.0\Infrastruture.Shared.AssemblyInfo.cs
 C:\Users\jpequena\Documents\Projectos\API\Infrastruture.Shared\obj\Debug\net7.0\Infrastruture.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jpequena\Documents\Projectos\API\Infrastruture.Shared\obj\Debug\net7.0\Infrastruture.Shared.sourcelink.json
 C:\Users\jpequena\Documents\Projectos\API\Infrastruture.Shared\obj\Debug\net7.0\Infrastr.80BADE71.Up2Date
 C:\Users\jpequena\Documents\Projectos\API\Infrastruture.Shared\obj\Debug\net7.0\Infrastruture.Shared.dll
 C:\Users\jpequena\Documents\Projectos\API\Infrastruture.Shared\obj\Debug\net7.0\refint\Infrastruture.Shared.dll

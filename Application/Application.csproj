@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="App_GenerateQRCode\UseCases\QRCode\" />
     <Folder Include="App_Geral\UseCases\Usuarios\Queries\" />
     <Folder Include="App_Qualidade\UseCases\" />
     <Folder Include="App_Shared\Abstractions\" />
